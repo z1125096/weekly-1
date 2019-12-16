@@ -1,6 +1,47 @@
 Excellent  
 ========  
 
+## 12
+
+**Contract for the Web - A global plan of action to make our online world safe and empowering for everyone**  
+https://contractfortheweb.org/  
+https://webfoundation.org/2019/12/i-invented-the-world-wide-web-heres-how-we-can-fix-it/  
+The Web was designed to bring people together and make knowledge freely available. It has changed the world for good and improved the lives of billions. Yet, many people are still unable to access its benefits and, for others, the Web comes with too many unacceptable costs. Everyone has a role to play in safeguarding the future of the Web. The Contract for the Web was created by representatives from over 80 organizations, representing governments, companies and civil society, and sets out commitments to guide digital policy agendas. To achieve the Contract’s goals, governments, companies, civil society and individuals must commit to sustained policy development, advocacy, and implementation of the Contract text.
+
+**Develop, Debug, Learn? A time to re-think our tooling**  
+https://christianheilmann.com/2019/12/12/develop-debug-learn-a-time-to-re-think-our-tooling/  
+I don’t have all the answers we seek to make development a simpler task. But I think we are well on the way. With an open mind, open ears and open source we can fix a lot of the things that both tire us and make our market appear less appealing. People are worried about automation and computers taking their jobs. They also are worried about large tech companies ruling the world without opening the doors to people who haven’t got the same education and experience as the ones working in them. By changing our tools to be more all-encompassing and making our accumulated knowledge part of the development process we make a good start to changing that. And we make it easier for the next generation of developers to focus on delivery, not on knowing all about the toolchain.
+
+**DoltHub**  
+https://www.dolthub.com/  
+Dolt and DoltHub let users collaborate on databases in the same way they collaborate on source code. Dolt is a relational database combined with the version control concepts of Git. DoltHub provides a central place to store and share data in Dolt format. Dolt is Git for data. Git versions files.
+
+**Challenging projects every programmer should try**  
+http://web.eecs.utk.edu/~azh/blog/challengingprojects.html  
+I talk to a lot of students and professional developers that often want to start a side project, but aren't sure what to build. Below is a handful of software projects that taught me a lot. In fact, they're great because you could build them multiple times and learn new things each time. So whenever I don't know what to build or I want to learn a new programming language or framework, I start with one of these:
+- Text editor
+- 2D game - Space Invaders
+- Compiler - Tiny BASIC
+- Mini operating system
+- Spreadsheet (hard!)
+- Video game console emulator (hard!)
+
+**The Product-Minded Software Engineer**  
+https://blog.pragmaticengineer.com/the-product-minded-engineer/  
+Product-minded engineers are developers with lots of interest in the product itself. They want to understand why decisions are made, how people use the product, and love to be involved in making product decisions. They're someone who would likely make a good product manager if they ever decide to give up the joy of engineering. I've worked with many great product-minded engineers and consider myself to be this kind of developer. At companies building world-class products, product-minded engineers take teams to a new level of impact.
+
+**Instadeq - Data Analysis and Visualization for Everyone**  
+https://instadeq.com/  
+Data analysis, visualization and collaboration for individuals and teams. 
+
+**Urbit - Your last computer**  
+https://urbit.org/  
+Imagine that you can login from anywhere with one name and password. And when you do, your entire OS appears. Inside is your whole digital life. All of your communities, conversations, and connections. All of your biometric data and devices. Your entire personal archive in one place that’s secure, private, and designed to last forever. You own and control this OS completely. It’s yours. No one else can look at it without your permission, it can never show you ads. This is what Urbit is. Your Urbit is a simple, durable computer that belongs to you 100% and forever. Urbit is not vaporware. It's real and it works. Two separate companies and a community of contributors are working together to build the Urbit future.
+
+**GNUnet**  
+https://gnunet.org/  
+GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack. GNUnet is typically run as an overlay network on top of the existing Internet infrastructure forming the basis of a hybrid peer-to-peer mesh and relay backbone for applications to run on. It could just as well be run independently of the Internet, over dedicated radio and cable. GNUnet is made for a free and open society: It's a self-organizing network and it is free software as in
+
 ## 11  
 
 **A Programmer's Introduction to Mathematics**  
@@ -9,6 +50,7 @@ https://jeremykun.com/2019/12/01/a-good-year-for-a-programmers-introduction-to-m
 
 **[译]React过誉了吗？**  
 https://mp.weixin.qq.com/s/15b8jzfeakj5PUAkSBpoaw  
+https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644  
 当我也成长为老一代开发者，看过了那么多项目花开花谢，我再学习新技术时就不会把它们当成已有事物的终极解决方案了，而只会把它们看作是升级更新，并加入到我自己的知识库里。React 本身也不是全新的东西。它只是将 JavaScript、HTML 和 CSS 打包在一起的另一种途径。Angular 刚出来的时候用的也是这种方法，之前的 jQuery 也一样。业界永远都在追捧下一个热点，但最佳方法就是学习如何正确地编写代码，然后把这件事做好即可——因为不管现在的热点是什么框架、库、支架之类花哨的东西，都是无关紧要的。作为开发人员，你的水平取决于你能以多快的速度，凭借良好的编程基础来适应当前的需求和环境。
 
 **心性：架构师的修炼之道**  
